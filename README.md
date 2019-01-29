@@ -1,4 +1,4 @@
-# uneva_flutter
+# Simple Flutter UI
 
 A new Flutter application.
 
